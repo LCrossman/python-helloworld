@@ -9,3 +9,9 @@ INFO:werkzeug:127.0.0.1 - - [19/Jun/2021 09:25:07] "GET /metrics HTTP/1.1" 200 -
 WARNING:werkzeug: * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 INFO:werkzeug: * Running on http://192.168.0.20:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.20:5000/ (Press CTRL+C to quit)
+INFO:app:main request successful
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 20:08:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 20:08:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
